@@ -1,0 +1,57 @@
+
+.content {
+  margin-top: 40px;
+  margin-left: 20px;
+}
+
+/*** Card Image ***/
+.card-img {
+  margin: 0px 2px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.grey-background {
+  filter: grayscale(100%);
+}
+
+.card-form {
+  margin-top: 10px;
+}
+
+.text-field {
+  width: 160px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  font-size: 14px;
+  padding: 6px 12px;
+}
+
+.btn {
+  background-color: #5cb85c;
+  border-radius: 4px;
+  border-color: #4cae4c;
+  color: white;
+  cursor: pointer;
+  font-size: 14px;
+  font-family: 'Helvetica', sans-serif;
+  padding: 6px 12px;
+  margin-left: 10px;
+}
+
+/*** Check Resaults ***/
+.success {
+  color: #4cae4c;
+  font-size: 25px;
+  margin-left: 6px;
+}
+
+.fail {
+  color: red;
+  font-size: 25px;
+  margin-left: 6px;
+}
+
+.hide {
+  display: none;
+}
